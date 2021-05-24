@@ -1,0 +1,11 @@
+*
+
+!.gitignore
+!.config/i3
+!.config/i3scripts
+!.config/i3status
+!.config/i3wallpaper
+!.config/nvim
+!.bashrc
+!.vimrc
+!.vim
